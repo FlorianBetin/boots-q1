@@ -1,0 +1,29 @@
+
+h1{
+    margin-bottom: 2rem;
+}
+
+.fs-1 {
+    text-align: center;
+}
+
+
+.fs-2 {
+    text-align: center;
+}
+
+#divbottom {
+    
+    display: block;
+    height: 16rem;
+}
+
+#section1{
+    margin-bottom: 2rem;
+}
+
+footer{
+    padding: 1rem;
+    text-align: center;
+    text-decoration: none;
+}
